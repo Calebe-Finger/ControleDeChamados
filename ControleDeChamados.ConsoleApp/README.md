@@ -1,6 +1,6 @@
 # Gerenciamento de Chamados
 
-![](.gif)
+![](https://imgur.com/8LCyL6E.gif)
 
 ## Introdução 
 
